@@ -18,7 +18,7 @@ public:
         cout << "Model: " << model_name << ", Year: " << year << endl;
     }
 
-    // virtual destructor (just good practice when using inheritance)
+    // virtual destructor
     virtual ~Vehicle() {}
 };
 
